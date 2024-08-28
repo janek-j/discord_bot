@@ -1,10 +1,31 @@
-# discord_bot
-Discordowy bot stworzony do wypisywania informacji kto jest na koncie w danej grze, w której dostęp do konta jest współdzielony.
-Wypisuje informacje kto jest na koncie, od jak dawna. 
-Komendy:
-/kto Pisze kto jest na koncie.
-/wchodze Uzytkownik wchodzi na konto.
-/wychodze Uzytkownik wychodzi z konta.
-/stawiam_afk Uzytkownik stawia jakies multikonto afk.
-/zdejmij_afk Uzytwkonik wychodzi z multikonta, ktore stalo afk.
-/kto_afk Wypisuje jaki uzytkownik jest na danym multikoncie afk.
+# Discordowy Bot
+
+Discordowy bot stworzony do zarządzania kontami w grach, w których dostęp do konta jest współdzielony. Bot umożliwia śledzenie, kto aktualnie korzysta z konta, oraz zarządzanie stanem kont (np. AFK).
+
+## Komendy
+
+- **/kto**  
+  Wypisuje, kto aktualnie jest na koncie.
+
+- **/wchodze**  
+  Użytkownik informuje, że wchodzi na konto.
+
+- **/wychodze**  
+  Użytkownik informuje, że wychodzi z konta.
+
+- **/stawiam_afk**  
+  Użytkownik ustawia konto jako AFK.
+
+- **/zdejmij_afk**  
+  Użytkownik usuwa status AFK z konta.
+
+- **/kto_afk**  
+  Wypisuje, który użytkownik jest AFK na danym koncie.
+
+## Instalacja
+
+1. **Pobierz lub sklonuj repozytorium**:
+
+   ```bash
+   git clone https://github.com/TwojeKonto/discord_bot.git
+
