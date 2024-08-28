@@ -24,11 +24,11 @@ Discordowy bot stworzony do zarządzania kontami w grach, w których dostęp do 
 
 ## Instalacja
 
-1. **Pobierz lub sklonuj repozytorium**:
+- 1. **Pobierz lub sklonuj repozytorium**:
 
    ```bash
    git clone https://github.com/janek-j/discord_bot.git
-
-2 **'''bashWygeneruj swoj token w API discordowym do własnego bota.**
-3 **Skopiuj token i wklej go do pliku config.json w miejsce nie_powiem**
-4 **Uruchom program i ciesz się botem!**
+- 2 **Wygeneruj swoj token w API discordowym do własnego bota.**
+- 3 **Skopiuj token i wklej go do pliku config.json w miejsce nie_powiem**
+- 4 **Uruchom program i ciesz się botem!**
+  
