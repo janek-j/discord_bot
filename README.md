@@ -21,6 +21,7 @@ Discordowy bot stworzony do zarządzania kontami w grach, w których dostęp do 
 
 - **/kto_afk**  
   Wypisuje, który użytkownik jest AFK na danym koncie.
+  
 - **/wykres <uzytkownik>**
   Rysuje wykres ile dany użytkownik spędził na koncie.
 
