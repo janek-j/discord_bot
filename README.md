@@ -22,25 +22,12 @@ Discordowy bot stworzony do zarządzania kontami w grach, w których dostęp do 
 - **/kto_afk**  
   Wypisuje, który użytkownik jest AFK na danym koncie.
   
-- **/wykres <uzytkownik>**
+- **/wykres <uzytkownik>**  
   Rysuje wykres ile dany użytkownik spędził na koncie.
 
 ## Instalacja
 
--  **Pobierz lub sklonuj repozytorium**:
+- **Pobierz lub sklonuj repozytorium**:
 
-   ```bash
-   git clone https://github.com/janek-j/discord_bot.git
--  **Wygeneruj swoj token w API discordowym do własnego bota.**
--  **Skopiuj token i wklej go do pliku config.json w miejsce nie_powiem**
--  **Uruchom program i ciesz się botem!**
--**Dodatkowe biblioteki**
-   ```bash
-   matplotlib
-   ```bash
-   numpy
-   ```bash
-   discord
-   ```bash
-   
-  
+  ```bash
+  git clone https://github.com/janek-j/discord_bot.git
