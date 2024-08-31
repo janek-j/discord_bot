@@ -34,4 +34,13 @@ Discordowy bot stworzony do zarządzania kontami w grach, w których dostęp do 
 -  **Wygeneruj swoj token w API discordowym do własnego bota.**
 -  **Skopiuj token i wklej go do pliku config.json w miejsce nie_powiem**
 -  **Uruchom program i ciesz się botem!**
+-**Dodatkowe biblioteki**
+   ```bash
+   matplotlib
+   ```bash
+   numpy
+   ```bash
+   discord
+   ```bash
+   
   
